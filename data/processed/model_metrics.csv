@@ -1,0 +1,5 @@
+model,cv_rmse,cv_rmse_std,test_rmse,test_mae,test_r2
+Baseline (mean),297.4972,4.4707,302.9522,250.1981,-0.0059
+Linear Regression,206.2312,2.9079,208.7438,187.8386,0.5224
+Random Forest,170.4398,3.1874,162.3863,142.9953,0.711
+Gradient Boosting,187.1134,4.6588,186.482,172.5019,0.6188
